@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
   btnText :{
     padding:10,
    // backgroundColor:'red',
-     width:'40%',
+     //width:'40%',
     textAlign:'center',
        
   }
